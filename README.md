@@ -1,6 +1,6 @@
 <img width="1341" height="742" alt="Image" src="https://github.com/user-attachments/assets/ac6894d2-c073-4110-a3c1-7f7ce9553df7" />
 
-# 📊 Sales Dashboard — Power BI
+# 📊 Dashboard de Vendas e Performance — Power BI
 
 Dashboard desenvolvido no Power BI para análise de vendas, faturamento e lucratividade a partir do dataset **Financial Sample**, disponibilizado pela Microsoft.
 
