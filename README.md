@@ -135,7 +135,7 @@ O arquivo `.pbix` pode ser incluído na raiz do repositório:
 powerbi-sales-dashboard/
 │
 ├── Financial Sample.xlsx
-├── Sales_Dashboard.pbix
+├── Dashboard de Vendas e Performance.pbix
 ├── README.md
 ├── images/
 │   └── dashboard.png
